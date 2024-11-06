@@ -39,7 +39,7 @@ This dashboard leverages a rich dataset containing information on:
 
 **Getting Started**
 
-1. **Clone the Repository:** Download the project files by clicking the "Clone or download" button on this page or by visiting [https://github.com/Aafi04/Financial-Analysis](https://github.com/Aafi04/Financial-Analysis).
+1. **Clone the Repository:** Download the project files by clicking the "Clone or download" button on this page.
 2. **Open Power BI Desktop:** Launch the Power BI Desktop application.
 3. **Import the Dataset:** Load your prepared dataset into Power BI.
 4. **Apply the Dashboard:** Import the dashboard file (.pbix) and connect it to the dataset.
